@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "care-demand-ml-lab"
+version = "1.0.0"
+description = "Reproducible ML experiment on synthetic care-service demand signals"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.2,<4.0", "scikit-learn>=1.4,<2.0"]
+
+[project.scripts]
+care-demand-lab = "care_demand_ml_lab.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

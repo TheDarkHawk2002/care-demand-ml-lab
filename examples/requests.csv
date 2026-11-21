@@ -1,0 +1,361 @@
+request_id,description,service_area,channel,days_waiting,open_items,review_required
+SYN-0001,general information,transport,referral,3,1,0
+SYN-0002,equipment unavailable urgent follow-up,appointments,web,22,2,1
+SYN-0003,schedule question,appointments,phone,2,2,0
+SYN-0004,document request,home_support,phone,0,3,0
+SYN-0005,routine update,home_support,referral,7,1,0
+SYN-0006,document request,appointments,referral,2,0,0
+SYN-0007,document request,appointments,referral,6,0,0
+SYN-0008,transport delay affects scheduled service,appointments,phone,4,5,1
+SYN-0009,multiple open requests overdue,appointments,referral,16,5,1
+SYN-0010,routine update,appointments,referral,2,1,0
+SYN-0011,general information,appointments,phone,6,0,0
+SYN-0012,transport delay affects scheduled service,appointments,referral,15,5,1
+SYN-0013,multiple open requests overdue,transport,referral,10,3,1
+SYN-0014,routine update,home_support,phone,4,3,0
+SYN-0015,equipment unavailable urgent follow-up,home_support,referral,9,5,0
+SYN-0016,document request,equipment,referral,2,3,0
+SYN-0017,general information,transport,web,7,1,0
+SYN-0018,schedule question,home_support,web,0,1,0
+SYN-0019,document request,equipment,web,1,0,0
+SYN-0020,equipment unavailable urgent follow-up,transport,referral,12,5,1
+SYN-0021,general information,home_support,phone,4,3,0
+SYN-0022,schedule question,equipment,web,9,3,0
+SYN-0023,transport delay affects scheduled service,appointments,referral,19,5,0
+SYN-0024,multiple open requests overdue,equipment,phone,19,4,1
+SYN-0025,transport delay affects scheduled service,equipment,phone,23,6,1
+SYN-0026,missed visit repeated delay,home_support,web,12,6,1
+SYN-0027,schedule question,appointments,phone,0,2,0
+SYN-0028,routine update,equipment,phone,4,3,0
+SYN-0029,general information,transport,referral,1,2,0
+SYN-0030,routine update,equipment,web,5,1,1
+SYN-0031,multiple open requests overdue,appointments,phone,18,3,1
+SYN-0032,document request,appointments,phone,5,2,0
+SYN-0033,missed visit repeated delay,transport,referral,17,2,1
+SYN-0034,schedule question,equipment,referral,4,2,0
+SYN-0035,document request,transport,referral,6,3,0
+SYN-0036,document request,home_support,referral,3,0,0
+SYN-0037,multiple open requests overdue,appointments,phone,13,4,1
+SYN-0038,schedule question,appointments,web,9,2,0
+SYN-0039,general information,equipment,web,3,2,0
+SYN-0040,routine update,transport,phone,0,1,0
+SYN-0041,transport delay affects scheduled service,appointments,referral,17,2,1
+SYN-0042,missed visit repeated delay,appointments,referral,16,5,1
+SYN-0043,document request,equipment,web,0,0,0
+SYN-0044,missed visit repeated delay,equipment,web,5,3,1
+SYN-0045,routine update,home_support,referral,3,2,0
+SYN-0046,document request,equipment,web,3,1,0
+SYN-0047,schedule question,appointments,phone,3,1,1
+SYN-0048,schedule question,home_support,phone,4,2,0
+SYN-0049,document request,equipment,phone,2,1,0
+SYN-0050,multiple open requests overdue,appointments,phone,21,2,1
+SYN-0051,routine update,transport,phone,5,1,0
+SYN-0052,general information,home_support,web,1,1,0
+SYN-0053,document request,equipment,web,4,0,0
+SYN-0054,general information,transport,phone,7,2,0
+SYN-0055,schedule question,equipment,web,0,3,0
+SYN-0056,schedule question,appointments,phone,7,2,0
+SYN-0057,schedule question,home_support,phone,4,2,0
+SYN-0058,general information,equipment,phone,9,3,0
+SYN-0059,schedule question,home_support,referral,9,3,0
+SYN-0060,schedule question,transport,web,0,3,0
+SYN-0061,multiple open requests overdue,appointments,web,17,5,1
+SYN-0062,document request,home_support,phone,4,1,0
+SYN-0063,routine update,appointments,referral,9,3,0
+SYN-0064,schedule question,equipment,phone,6,2,0
+SYN-0065,general information,appointments,phone,1,1,0
+SYN-0066,missed visit repeated delay,appointments,referral,13,2,1
+SYN-0067,document request,home_support,phone,7,2,0
+SYN-0068,routine update,equipment,phone,3,0,0
+SYN-0069,routine update,home_support,web,7,1,0
+SYN-0070,routine update,home_support,web,0,0,0
+SYN-0071,schedule question,equipment,phone,9,1,0
+SYN-0072,missed visit repeated delay,appointments,web,6,3,1
+SYN-0073,multiple open requests overdue,home_support,web,21,4,0
+SYN-0074,transport delay affects scheduled service,equipment,web,18,2,1
+SYN-0075,missed visit repeated delay,equipment,referral,18,2,0
+SYN-0076,document request,appointments,referral,8,3,0
+SYN-0077,routine update,equipment,referral,8,2,0
+SYN-0078,schedule question,home_support,referral,4,1,0
+SYN-0079,missed visit repeated delay,home_support,referral,10,2,1
+SYN-0080,document request,home_support,phone,7,0,0
+SYN-0081,general information,transport,referral,2,2,0
+SYN-0082,routine update,home_support,referral,6,0,0
+SYN-0083,routine update,appointments,referral,10,2,0
+SYN-0084,document request,transport,phone,4,3,0
+SYN-0085,routine update,home_support,phone,3,2,0
+SYN-0086,general information,transport,web,2,1,0
+SYN-0087,transport delay affects scheduled service,appointments,web,22,3,1
+SYN-0088,routine update,appointments,web,8,2,0
+SYN-0089,routine update,appointments,referral,7,3,0
+SYN-0090,routine update,transport,phone,8,0,0
+SYN-0091,schedule question,home_support,phone,1,2,0
+SYN-0092,routine update,appointments,web,7,3,0
+SYN-0093,multiple open requests overdue,equipment,phone,11,5,1
+SYN-0094,document request,transport,phone,1,1,1
+SYN-0095,routine update,appointments,referral,3,2,1
+SYN-0096,transport delay affects scheduled service,home_support,web,17,3,1
+SYN-0097,general information,equipment,referral,2,3,0
+SYN-0098,transport delay affects scheduled service,appointments,phone,6,4,1
+SYN-0099,missed visit repeated delay,home_support,web,15,5,1
+SYN-0100,general information,transport,phone,9,0,0
+SYN-0101,equipment unavailable urgent follow-up,appointments,referral,9,6,1
+SYN-0102,general information,equipment,phone,5,2,0
+SYN-0103,general information,transport,phone,10,1,1
+SYN-0104,routine update,equipment,phone,4,3,0
+SYN-0105,routine update,appointments,phone,6,2,0
+SYN-0106,equipment unavailable urgent follow-up,equipment,phone,16,5,1
+SYN-0107,multiple open requests overdue,home_support,web,9,2,1
+SYN-0108,routine update,transport,referral,2,0,0
+SYN-0109,transport delay affects scheduled service,appointments,phone,9,3,1
+SYN-0110,general information,transport,referral,9,3,0
+SYN-0111,routine update,equipment,web,7,2,0
+SYN-0112,general information,appointments,web,1,3,0
+SYN-0113,routine update,equipment,web,0,0,0
+SYN-0114,equipment unavailable urgent follow-up,appointments,referral,7,3,1
+SYN-0115,equipment unavailable urgent follow-up,transport,referral,7,3,1
+SYN-0116,transport delay affects scheduled service,transport,web,11,4,1
+SYN-0117,schedule question,transport,referral,10,2,0
+SYN-0118,routine update,equipment,referral,9,2,0
+SYN-0119,missed visit repeated delay,appointments,referral,12,2,1
+SYN-0120,routine update,appointments,referral,3,1,0
+SYN-0121,general information,home_support,phone,7,0,0
+SYN-0122,schedule question,transport,web,8,0,0
+SYN-0123,document request,equipment,phone,0,1,0
+SYN-0124,document request,transport,referral,0,3,0
+SYN-0125,transport delay affects scheduled service,appointments,referral,16,4,1
+SYN-0126,document request,home_support,web,0,3,0
+SYN-0127,transport delay affects scheduled service,appointments,phone,15,2,1
+SYN-0128,equipment unavailable urgent follow-up,transport,web,21,4,1
+SYN-0129,routine update,home_support,referral,8,1,0
+SYN-0130,multiple open requests overdue,home_support,web,23,2,0
+SYN-0131,transport delay affects scheduled service,transport,phone,23,2,1
+SYN-0132,equipment unavailable urgent follow-up,appointments,referral,5,2,1
+SYN-0133,general information,equipment,phone,8,3,0
+SYN-0134,general information,home_support,phone,8,3,0
+SYN-0135,schedule question,equipment,web,8,0,0
+SYN-0136,schedule question,equipment,web,4,0,0
+SYN-0137,general information,appointments,web,3,3,0
+SYN-0138,document request,transport,referral,1,2,0
+SYN-0139,document request,appointments,web,3,3,0
+SYN-0140,schedule question,home_support,web,5,3,0
+SYN-0141,multiple open requests overdue,transport,web,13,3,0
+SYN-0142,multiple open requests overdue,equipment,referral,13,5,1
+SYN-0143,document request,equipment,phone,2,1,0
+SYN-0144,transport delay affects scheduled service,appointments,phone,13,2,1
+SYN-0145,missed visit repeated delay,appointments,web,17,3,1
+SYN-0146,schedule question,home_support,web,3,3,0
+SYN-0147,multiple open requests overdue,appointments,web,14,2,1
+SYN-0148,document request,appointments,phone,2,3,0
+SYN-0149,missed visit repeated delay,equipment,referral,24,3,0
+SYN-0150,general information,home_support,phone,1,0,0
+SYN-0151,routine update,appointments,phone,2,0,0
+SYN-0152,multiple open requests overdue,home_support,phone,24,3,1
+SYN-0153,equipment unavailable urgent follow-up,equipment,phone,7,6,1
+SYN-0154,general information,transport,phone,3,2,0
+SYN-0155,general information,appointments,web,8,2,0
+SYN-0156,routine update,transport,web,6,2,0
+SYN-0157,routine update,transport,web,5,1,0
+SYN-0158,document request,transport,web,10,0,1
+SYN-0159,routine update,equipment,referral,7,1,0
+SYN-0160,multiple open requests overdue,equipment,web,6,4,1
+SYN-0161,schedule question,home_support,web,4,0,0
+SYN-0162,multiple open requests overdue,appointments,phone,7,2,0
+SYN-0163,schedule question,home_support,referral,6,3,0
+SYN-0164,routine update,transport,referral,7,2,0
+SYN-0165,equipment unavailable urgent follow-up,transport,phone,10,5,1
+SYN-0166,general information,home_support,phone,9,0,0
+SYN-0167,schedule question,transport,phone,7,2,0
+SYN-0168,multiple open requests overdue,home_support,phone,5,5,1
+SYN-0169,multiple open requests overdue,equipment,referral,24,4,1
+SYN-0170,transport delay affects scheduled service,equipment,phone,24,6,1
+SYN-0171,document request,equipment,phone,1,2,0
+SYN-0172,general information,equipment,referral,0,1,0
+SYN-0173,schedule question,equipment,referral,0,0,0
+SYN-0174,document request,transport,referral,3,3,0
+SYN-0175,document request,home_support,referral,0,2,0
+SYN-0176,routine update,home_support,referral,10,2,0
+SYN-0177,equipment unavailable urgent follow-up,transport,referral,24,4,1
+SYN-0178,general information,home_support,web,1,1,0
+SYN-0179,equipment unavailable urgent follow-up,transport,web,20,4,1
+SYN-0180,routine update,transport,referral,3,0,0
+SYN-0181,transport delay affects scheduled service,appointments,referral,17,5,1
+SYN-0182,general information,appointments,web,2,3,0
+SYN-0183,equipment unavailable urgent follow-up,appointments,phone,17,3,1
+SYN-0184,document request,appointments,phone,0,2,0
+SYN-0185,schedule question,home_support,phone,3,1,0
+SYN-0186,missed visit repeated delay,equipment,referral,8,6,1
+SYN-0187,routine update,transport,phone,5,1,0
+SYN-0188,equipment unavailable urgent follow-up,equipment,referral,13,3,1
+SYN-0189,general information,home_support,referral,0,2,0
+SYN-0190,general information,equipment,referral,9,1,0
+SYN-0191,general information,appointments,referral,2,2,1
+SYN-0192,transport delay affects scheduled service,appointments,web,16,5,1
+SYN-0193,routine update,appointments,web,8,3,0
+SYN-0194,document request,transport,phone,1,1,0
+SYN-0195,missed visit repeated delay,home_support,referral,7,2,0
+SYN-0196,multiple open requests overdue,transport,phone,11,5,1
+SYN-0197,schedule question,appointments,phone,0,3,0
+SYN-0198,document request,equipment,web,8,3,0
+SYN-0199,document request,appointments,referral,8,1,0
+SYN-0200,equipment unavailable urgent follow-up,appointments,web,13,3,1
+SYN-0201,general information,equipment,referral,0,1,0
+SYN-0202,equipment unavailable urgent follow-up,transport,phone,5,3,1
+SYN-0203,schedule question,home_support,phone,10,0,0
+SYN-0204,general information,appointments,web,7,2,0
+SYN-0205,general information,appointments,referral,3,1,0
+SYN-0206,routine update,appointments,phone,6,2,0
+SYN-0207,general information,transport,phone,6,3,0
+SYN-0208,schedule question,appointments,web,9,3,0
+SYN-0209,general information,equipment,web,10,1,0
+SYN-0210,routine update,home_support,web,3,0,0
+SYN-0211,multiple open requests overdue,appointments,phone,13,2,1
+SYN-0212,multiple open requests overdue,transport,phone,7,4,1
+SYN-0213,document request,home_support,phone,2,3,0
+SYN-0214,transport delay affects scheduled service,home_support,web,4,6,1
+SYN-0215,document request,transport,phone,1,3,0
+SYN-0216,equipment unavailable urgent follow-up,equipment,referral,24,2,1
+SYN-0217,routine update,appointments,web,7,0,0
+SYN-0218,schedule question,transport,web,3,0,0
+SYN-0219,document request,transport,phone,8,2,0
+SYN-0220,general information,equipment,referral,9,2,1
+SYN-0221,missed visit repeated delay,equipment,phone,5,5,1
+SYN-0222,multiple open requests overdue,appointments,referral,8,2,1
+SYN-0223,equipment unavailable urgent follow-up,home_support,referral,18,2,1
+SYN-0224,routine update,appointments,web,7,0,0
+SYN-0225,routine update,home_support,web,3,2,0
+SYN-0226,routine update,appointments,web,6,0,0
+SYN-0227,document request,appointments,web,3,2,0
+SYN-0228,schedule question,appointments,web,4,3,0
+SYN-0229,multiple open requests overdue,home_support,phone,14,6,1
+SYN-0230,routine update,transport,referral,4,1,0
+SYN-0231,document request,home_support,web,10,0,0
+SYN-0232,equipment unavailable urgent follow-up,equipment,phone,23,3,1
+SYN-0233,equipment unavailable urgent follow-up,equipment,referral,20,5,1
+SYN-0234,transport delay affects scheduled service,home_support,referral,16,2,1
+SYN-0235,schedule question,home_support,referral,1,3,0
+SYN-0236,general information,appointments,web,1,1,0
+SYN-0237,equipment unavailable urgent follow-up,equipment,web,11,2,1
+SYN-0238,transport delay affects scheduled service,equipment,phone,12,4,1
+SYN-0239,routine update,home_support,referral,6,3,0
+SYN-0240,schedule question,transport,web,8,1,0
+SYN-0241,general information,home_support,web,3,1,0
+SYN-0242,equipment unavailable urgent follow-up,transport,referral,9,6,1
+SYN-0243,general information,appointments,web,5,0,0
+SYN-0244,multiple open requests overdue,transport,phone,22,4,1
+SYN-0245,document request,home_support,referral,8,0,0
+SYN-0246,document request,equipment,phone,10,3,0
+SYN-0247,missed visit repeated delay,home_support,referral,16,3,1
+SYN-0248,general information,transport,phone,0,2,0
+SYN-0249,schedule question,appointments,phone,1,3,0
+SYN-0250,document request,transport,referral,3,1,0
+SYN-0251,multiple open requests overdue,home_support,referral,18,3,1
+SYN-0252,document request,home_support,phone,1,3,0
+SYN-0253,general information,home_support,web,3,0,0
+SYN-0254,schedule question,home_support,referral,8,3,0
+SYN-0255,schedule question,home_support,referral,1,3,0
+SYN-0256,general information,appointments,referral,4,1,0
+SYN-0257,transport delay affects scheduled service,appointments,web,5,2,1
+SYN-0258,general information,appointments,web,6,0,0
+SYN-0259,missed visit repeated delay,home_support,referral,6,3,1
+SYN-0260,multiple open requests overdue,equipment,referral,17,4,1
+SYN-0261,general information,transport,referral,9,2,0
+SYN-0262,general information,appointments,phone,6,1,0
+SYN-0263,routine update,home_support,referral,1,0,1
+SYN-0264,routine update,equipment,referral,2,0,0
+SYN-0265,schedule question,appointments,web,0,2,1
+SYN-0266,schedule question,transport,referral,0,0,0
+SYN-0267,equipment unavailable urgent follow-up,equipment,web,15,6,1
+SYN-0268,missed visit repeated delay,home_support,phone,21,2,1
+SYN-0269,transport delay affects scheduled service,home_support,referral,8,6,1
+SYN-0270,schedule question,equipment,referral,2,2,0
+SYN-0271,multiple open requests overdue,equipment,web,18,3,1
+SYN-0272,document request,appointments,web,1,1,0
+SYN-0273,multiple open requests overdue,equipment,referral,17,6,1
+SYN-0274,routine update,appointments,web,3,3,0
+SYN-0275,schedule question,equipment,phone,10,0,0
+SYN-0276,general information,appointments,referral,3,2,0
+SYN-0277,routine update,equipment,phone,10,1,0
+SYN-0278,schedule question,home_support,referral,10,2,0
+SYN-0279,missed visit repeated delay,transport,web,9,2,0
+SYN-0280,multiple open requests overdue,transport,referral,15,3,1
+SYN-0281,equipment unavailable urgent follow-up,equipment,referral,7,6,1
+SYN-0282,schedule question,home_support,web,3,3,0
+SYN-0283,routine update,appointments,web,0,3,0
+SYN-0284,equipment unavailable urgent follow-up,transport,web,18,2,0
+SYN-0285,schedule question,home_support,phone,8,0,0
+SYN-0286,multiple open requests overdue,equipment,phone,21,4,1
+SYN-0287,missed visit repeated delay,home_support,web,6,2,1
+SYN-0288,document request,appointments,referral,6,0,0
+SYN-0289,equipment unavailable urgent follow-up,equipment,referral,8,5,1
+SYN-0290,transport delay affects scheduled service,equipment,phone,23,3,1
+SYN-0291,missed visit repeated delay,transport,referral,9,2,1
+SYN-0292,general information,equipment,referral,7,3,0
+SYN-0293,routine update,home_support,phone,1,1,0
+SYN-0294,general information,transport,web,0,0,1
+SYN-0295,equipment unavailable urgent follow-up,transport,referral,5,6,1
+SYN-0296,routine update,appointments,referral,10,0,0
+SYN-0297,general information,equipment,referral,9,2,0
+SYN-0298,transport delay affects scheduled service,home_support,referral,10,6,1
+SYN-0299,general information,appointments,referral,6,1,0
+SYN-0300,routine update,equipment,web,0,1,0
+SYN-0301,document request,equipment,web,8,3,0
+SYN-0302,general information,equipment,phone,7,0,0
+SYN-0303,routine update,appointments,web,1,1,0
+SYN-0304,general information,appointments,referral,5,3,0
+SYN-0305,document request,equipment,phone,9,3,0
+SYN-0306,document request,transport,phone,8,3,0
+SYN-0307,document request,home_support,web,4,3,0
+SYN-0308,document request,home_support,referral,6,3,0
+SYN-0309,general information,transport,referral,6,1,0
+SYN-0310,multiple open requests overdue,transport,phone,11,5,1
+SYN-0311,general information,transport,phone,8,3,0
+SYN-0312,schedule question,equipment,web,8,0,0
+SYN-0313,transport delay affects scheduled service,appointments,referral,16,5,0
+SYN-0314,general information,appointments,referral,3,2,0
+SYN-0315,routine update,transport,phone,3,3,0
+SYN-0316,general information,home_support,phone,2,2,0
+SYN-0317,schedule question,transport,referral,0,0,0
+SYN-0318,schedule question,equipment,web,4,3,0
+SYN-0319,transport delay affects scheduled service,transport,web,9,2,1
+SYN-0320,transport delay affects scheduled service,appointments,phone,15,2,1
+SYN-0321,missed visit repeated delay,equipment,referral,23,5,1
+SYN-0322,transport delay affects scheduled service,equipment,web,20,5,1
+SYN-0323,routine update,transport,web,4,2,1
+SYN-0324,schedule question,transport,phone,2,1,0
+SYN-0325,schedule question,home_support,web,10,3,0
+SYN-0326,routine update,transport,phone,5,3,0
+SYN-0327,missed visit repeated delay,transport,web,6,5,1
+SYN-0328,multiple open requests overdue,equipment,phone,21,5,1
+SYN-0329,multiple open requests overdue,home_support,referral,4,6,1
+SYN-0330,schedule question,equipment,phone,8,1,0
+SYN-0331,missed visit repeated delay,equipment,referral,16,3,1
+SYN-0332,missed visit repeated delay,equipment,web,11,4,1
+SYN-0333,equipment unavailable urgent follow-up,equipment,referral,21,2,1
+SYN-0334,multiple open requests overdue,home_support,web,10,5,1
+SYN-0335,transport delay affects scheduled service,appointments,web,13,6,1
+SYN-0336,missed visit repeated delay,home_support,phone,7,6,1
+SYN-0337,multiple open requests overdue,home_support,phone,20,5,1
+SYN-0338,general information,equipment,web,0,2,0
+SYN-0339,routine update,equipment,web,5,2,0
+SYN-0340,transport delay affects scheduled service,appointments,referral,22,4,0
+SYN-0341,transport delay affects scheduled service,equipment,phone,12,4,1
+SYN-0342,transport delay affects scheduled service,equipment,phone,13,6,1
+SYN-0343,schedule question,equipment,web,2,1,0
+SYN-0344,routine update,home_support,referral,5,3,0
+SYN-0345,multiple open requests overdue,equipment,phone,5,5,1
+SYN-0346,missed visit repeated delay,equipment,referral,18,3,1
+SYN-0347,routine update,equipment,phone,0,0,0
+SYN-0348,multiple open requests overdue,appointments,phone,7,6,1
+SYN-0349,schedule question,home_support,web,4,2,0
+SYN-0350,schedule question,appointments,referral,10,3,0
+SYN-0351,routine update,appointments,referral,6,0,0
+SYN-0352,schedule question,appointments,web,0,2,0
+SYN-0353,schedule question,home_support,referral,0,0,0
+SYN-0354,missed visit repeated delay,appointments,referral,24,5,1
+SYN-0355,routine update,equipment,phone,10,0,1
+SYN-0356,equipment unavailable urgent follow-up,transport,referral,14,5,1
+SYN-0357,schedule question,transport,web,6,3,0
+SYN-0358,routine update,transport,web,1,3,0
+SYN-0359,routine update,home_support,phone,9,3,0
+SYN-0360,routine update,appointments,web,9,2,0
